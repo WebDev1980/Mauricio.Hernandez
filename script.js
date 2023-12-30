@@ -114,7 +114,7 @@ window.onscroll = function() {
           document.getElementById("navbar").style.top = "-100px";
         }
         hideTimer = null;
-      }, 300);
+      }, 500);
     }
   }
   prevScrollpos = currentScrollPos;
