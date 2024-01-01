@@ -735,8 +735,7 @@ opacity: 0;
     /* display: none; */
     position: fixed;
     opacity: 0;
-    transition: opacity 1.5s ease-in-out;
-    
+    transition: opacity 1s ease-in-out;
 }
   .tarjeta.visible {
     /* display: block; */
