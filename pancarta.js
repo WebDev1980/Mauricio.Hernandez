@@ -14,7 +14,7 @@ window.onload = function() {
     timeoutId = setTimeout(function() {
       // Oculta el contenedor después de 7 segundos
       encuesta.style.left = '-105%';
-    }, 7000);
+    }, 10000);
   }, 30000); // Repite cada 30 segundos
 };
 
